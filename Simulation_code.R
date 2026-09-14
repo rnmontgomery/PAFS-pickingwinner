@@ -42,7 +42,7 @@ draw_NIW <- function(data,  mu0, lambda0, v0, k0, ndraws){
 
 # Run the following code to replicate simulation studies.
 # The code takes several days to run, therefore
-# The results was saved, and are available on github as combined_simresults.csv
+# The results was saved, and are available on request.
 
 set.seed(4387)
 
